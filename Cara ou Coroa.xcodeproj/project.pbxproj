@@ -13,6 +13,7 @@
 		823AD06125501E5C00233876 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 823AD05F25501E5C00233876 /* Main.storyboard */; };
 		823AD06325501E5E00233876 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 823AD06225501E5E00233876 /* Assets.xcassets */; };
 		823AD06625501E5E00233876 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 823AD06425501E5E00233876 /* LaunchScreen.storyboard */; };
+		823AD06E2550226000233876 /* DetalhesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 823AD06D2550226000233876 /* DetalhesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		823AD06225501E5E00233876 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		823AD06525501E5E00233876 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		823AD06725501E5E00233876 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		823AD06D2550226000233876 /* DetalhesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalhesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				823AD05925501E5C00233876 /* AppDelegate.swift */,
 				823AD05B25501E5C00233876 /* SceneDelegate.swift */,
 				823AD05D25501E5C00233876 /* ViewController.swift */,
+				823AD06D2550226000233876 /* DetalhesViewController.swift */,
 				823AD05F25501E5C00233876 /* Main.storyboard */,
 				823AD06225501E5E00233876 /* Assets.xcassets */,
 				823AD06425501E5E00233876 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				823AD06E2550226000233876 /* DetalhesViewController.swift in Sources */,
 				823AD05E25501E5C00233876 /* ViewController.swift in Sources */,
 				823AD05A25501E5C00233876 /* AppDelegate.swift in Sources */,
 				823AD05C25501E5C00233876 /* SceneDelegate.swift in Sources */,
